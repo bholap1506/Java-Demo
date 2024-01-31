@@ -1,0 +1,16 @@
+ ˛∫æ   @ @
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;      makeConcatWithConstants (I)Ljava/lang/String;
+       java/io/PrintStream  println (Ljava/lang/String;)V               
+Arithmatic Code LineNumberTable main ([Ljava/lang/String;)V 
+SourceFile Arithmatic.java BootstrapMethods '
+ ( )  *  + $java/lang/invoke/StringConcatFactory ò(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; - First Number :  / Second Number :  1 Add  3 Sub  5 Mul  7 Div  9 Mod  InnerClasses  < %java/lang/invoke/MethodHandles$Lookup  > java/lang/invoke/MethodHandles Lookup !                    *∑ ±             	 ! "         ∑<=`>d6h6l6p6 ≤  ∫ 
+  ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤   ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤  ∫   ∂ ≤   ∫   ∂ ±        R         
+      	  
+  
+ *  6 
+ B  O  \  i  v  Ç  è  ú  ©  ∂   #    $ %   ,   &  , &  . &  0 &  2 &  4 &  6 &  8 :   
+  ; = ? 
+
+avinashrajaptel
